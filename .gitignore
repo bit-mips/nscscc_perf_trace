@@ -1,0 +1,3 @@
+soc_axi_perf/rtl
+soc_axi_perf/run_vivado
+soc_axi_perf/testbench
